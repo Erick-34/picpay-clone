@@ -17,7 +17,7 @@ export default function NotifiScreen() {
   return (
     <Container>
       <Header>
-        <Title>Notifications</Title>
+        <Title>Notificações</Title>
       </Header>
       <Wrapper>
         {messages.map((msg) => (
