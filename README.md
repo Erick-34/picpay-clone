@@ -8,8 +8,8 @@
   <img alt="Home" src=".github/home-picpay.png" width="20%">
   <img alt="Wallet" src=".github/wallet-picpay.png" width="20%">
   <img alt="Pay" src=".github/payment-picpay.png" width="20%">
-  <img alt="Notifications" src=".github/notificatons-picpay.png" width="20%">
-  <img alt="Settings" src=".github/settings-picpay.png" width="20%">
+  <img alt="Notifications" src=".github/notifications-picpay.png" width="20%">
+  <img alt="Settings" src=".github/setting-picpay.png" width="20%">
 </p>
 
 ## 🚀 Tecnologias
